@@ -1,0 +1,4 @@
+{
+    "rust-analyser.check.AllTargets": false,
+    "rust-analyser.cargo.target": "thumbv7em-none-eabihf"
+}
